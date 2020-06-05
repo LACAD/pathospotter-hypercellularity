@@ -5,10 +5,10 @@ Hypercellularity classifier
 ![sample](https://github.com/LACAD/pathospotter-hypercellularity/blob/master/hypercelullarity_dataset_sample.jpg)
 
 ## Citation
-Paulo Chagas, Luiz Souza, Ikaro Araújo, Nayze Aldeman, Angelo Duarte, Michele Angelo, Washington L.C. dos-Santos, Luciano Oliveira. [Classification of glomerular hypercellularity using convolutional features and support vector machine.](https://doi.org/10.1016/j.artmed.2020.101808) Artificial Intelligence in Medicine, Volume 103, 2020, 101808, ISSN 0933-3657. 
+Paulo Chagas, Luiz Souza, Ikaro Araújo, Nayze Aldeman, Angelo Duarte, Michele Angelo, Washington L.C. dos-Santos, Luciano Oliveira. [Classification of glomerular hypercellularity using convolutional features and support vector machine.](https://doi.org/10.1016/j.artmed.2020.101808) Artificial Intelligence in Medicine, Volume 103, 2020, 1-11, ISSN 0933-3657. 
 
 ## Request dataset
-Please send an e-mail to lrebouca@ufba.br or angeloduarte@uefs.br to receive a link to the PATHOSPOTTER_HYPERCELLULARITY dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
+Please send an e-mail to angeloduarte@uefs.br to receive a link to the PATHOSPOTTER_HYPERCELLULARITY data set. Your e-mail must be sent from a valid institutional account, and you MUST BE a professor associated to a University (emails sent from students will not be accepted). Please, include the following text (copy and paste the text below, filling the required fields):
 
 "Subject: Request to download PATHOSPOTTER_HYPERCELLULARITY dataset.
 
