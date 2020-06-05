@@ -1,4 +1,4 @@
-# Glomerular Hipercellularity Classifier 
+# Glomerular Hipercellularity data set 
 Hypercellularity classifier
 
 ## Dataset sample
