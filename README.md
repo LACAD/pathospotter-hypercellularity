@@ -1,10 +1,10 @@
 # Glomerular Hipercellularity Classifier 
 Hypercellularity classifier
 
-# Dataset sample
+## Dataset sample
 ![sample](https://github.com/LACAD/pathospotter-hypercellularity/blob/master/hypercelullarity_dataset_sample.jpg)
 
-# Citation
+## Citation
 Paulo Chagas, Luiz Souza, Ikaro Araújo, Nayze Aldeman, Angelo Duarte, Michele Angelo, Washington L.C. dos-Santos, Luciano Oliveira. [Classification of glomerular hypercellularity using convolutional features and support vector machine.](https://doi.org/10.1016/j.artmed.2020.101808) Artificial Intelligence in Medicine, Volume 103, 2020, 101808, ISSN 0933-3657. 
 
 ## Request dataset
@@ -20,11 +20,9 @@ Please send an e-mail to lrebouca@ufba.br or angeloduarte@uefs.br to receive a l
 
 I have read and agreed to follow the terms and conditions below: The use of the PATHOSPOTTER_HYPERCELLULARITY dataset is defined by the following conditions:
 
-This dataset is provided “AS IS”, without any express or implied warranty. Although every effort has been made to ensure accuracy, IvisionLab does not take any responsibility for errors or omissions;
-
-Without the expressed permission of IvisionLab, any of the following will be considered illegal: redistribution, modification, and commercial usage of this dataset in any way or form, either partially or in its entirety;
-
-All images in this dataset are only allowed for demonstration in academic publications and presentations;
+- This dataset is provided “AS IS”, without any express or implied warranty. Although every effort has been made to ensure accuracy, IvisionLab does not take any responsibility for errors or omissions;
+- Without the expressed permission of IvisionLab, any of the following will be considered illegal: redistribution, modification, and commercial usage of this dataset in any way or form, either partially or in its entirety;
+- All images in this dataset are only allowed for demonstration in academic publications and presentations;
 
 This dataset will only be used for research purposes. I will not make any part of this dataset available to a third party. I’ll not sell any part of this dataset or make any profit from its use.
 
