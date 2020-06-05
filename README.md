@@ -2,7 +2,7 @@
 Hypercellularity classifier
 
 # Dataset sample
-[sample](./hypercellularity_dataset_sample.jpg)
+![sample](./hypercellularity_dataset_sample.jpg)
 
 # Citation
 Paulo Chagas, Luiz Souza, Ikaro Araújo, Nayze Aldeman, Angelo Duarte, Michele Angelo, Washington L.C. dos-Santos, Luciano Oliveira. [Classification of glomerular hypercellularity using convolutional features and support vector machine.](https://doi.org/10.1016/j.artmed.2020.101808) Artificial Intelligence in Medicine, Volume 103, 2020, 101808, ISSN 0933-3657. 
